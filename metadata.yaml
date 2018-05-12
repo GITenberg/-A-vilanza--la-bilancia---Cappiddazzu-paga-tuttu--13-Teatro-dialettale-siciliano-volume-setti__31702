@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '35418'
     url: http://www.gutenberg.org/2009/agents/35418
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31702#-A-vilanza--la-bilancia---Cappiddazzu-paga-tuttu--13-Teatro-dialettale-siciliano-volume-setti_
 gutenberg_bookshelf: IT Teatro dialettale
 gutenberg_issued: '2010-03-19'
 gutenberg_type: Text
